@@ -1,4 +1,4 @@
-                      ![giphy](https://user-images.githubusercontent.com/98542561/158422598-5c66c1ba-251d-4f59-ad11-1853cbfa7da3.gif)
+![giphy](https://user-images.githubusercontent.com/98542561/158422598-5c66c1ba-251d-4f59-ad11-1853cbfa7da3.gif)
 
 Olá, tudo bem?
 
