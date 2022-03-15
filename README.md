@@ -1,7 +1,6 @@
-![cartao-de-visitas (2)](https://user-images.githubusercontent.com/98542561/158425107-248a15e6-313b-453d-b2cb-c8d752ecc34c.png) Matheus de Carvalho Zichia
+![usuario-masculino](https://user-images.githubusercontent.com/98542561/158425562-c06d75c7-6958-4cbc-afd8-b98ae2f64a14.png) Matheus de Carvalho Zichia
 
 ![botao-de-informacao](https://user-images.githubusercontent.com/98542561/158425270-ed7ff1fe-bcb8-44b2-8fdd-ec1a861eba9f.png) Fisioterapeuta com 10 anos de experiência que decidiu migrar para a área de Desenvolvimento.
-
 
 ![linkedin](https://user-images.githubusercontent.com/98542561/158423398-36227364-5dfe-4d28-acb2-d4edf707ce2f.png) https://www.linkedin.com/in/matheuszichia/
 
