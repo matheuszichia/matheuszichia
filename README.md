@@ -1,7 +1,5 @@
-![giphy](https://user-images.githubusercontent.com/98542561/158422598-5c66c1ba-251d-4f59-ad11-1853cbfa7da3.gif)
+![cartao-de-visitas](https://user-images.githubusercontent.com/98542561/158424426-9b5cb016-94d8-4cf4-9dbc-af5657777d7a.png): Matheus de Carvalho Zichia
 
-Meu nome é Matheus Zichia e, em 2022, finalizei minha jornada na área da saúde (onde atuei por 10 anos) e decidi mergulhar de cabeça no Desenvolvimento!
-Para isso, me matriculei em Análise e Desenvolvimento de Sistemas na Faculdade Impacta e estou realizando cursos livres voltados ao Frontend e Mobile.
 
 ![linkedin](https://user-images.githubusercontent.com/98542561/158423398-36227364-5dfe-4d28-acb2-d4edf707ce2f.png) https://www.linkedin.com/in/matheuszichia/
 
