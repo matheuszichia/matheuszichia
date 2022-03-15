@@ -1,4 +1,9 @@
-### Hi there 👋
+Olá, tudo bem?
+
+Meu nome é Matheus Zichia e estou saindo da área da Saúde (onde atuei por 10 anos)
+para a área de Desenvolvimento!
+
+Atualmente estou realizando cursos livres na área e cursando ADS na Faculdade Impacta.
 
 <!--
 **matheuszichia/matheuszichia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
