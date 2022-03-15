@@ -1,4 +1,4 @@
-![cartao-de-visitas](https://user-images.githubusercontent.com/98542561/158424426-9b5cb016-94d8-4cf4-9dbc-af5657777d7a.png): Matheus de Carvalho Zichia
+![cartao-de-visitas](https://user-images.githubusercontent.com/98542561/158424599-004e59b7-93eb-43f5-abfc-142b4068af8e.png): Matheus de Carvalho Zichia
 
 
 ![linkedin](https://user-images.githubusercontent.com/98542561/158423398-36227364-5dfe-4d28-acb2-d4edf707ce2f.png) https://www.linkedin.com/in/matheuszichia/
